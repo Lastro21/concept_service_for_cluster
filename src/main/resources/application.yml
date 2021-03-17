@@ -1,0 +1,2 @@
+my_any_app:
+  my_any_id: ${random.uuid}
